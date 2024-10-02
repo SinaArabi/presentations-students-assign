@@ -1,2 +1,2 @@
 # presentations-students-assign
-Developing an algorithm for choosing presentation topics for student groups
+Developing an algorithm for assigning presentation topics for student groups in a fair and satisfying approach
